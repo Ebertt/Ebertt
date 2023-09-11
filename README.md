@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ebertt
+- 👋 Hi, I’m @Ebertt sou PO
 - 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning node.js no backend and angular no frontend.
 - 💞️ I’m looking to collaborate on technical questions about development.
